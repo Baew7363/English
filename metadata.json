@@ -1,0 +1,6 @@
+{
+  "name": "كلمات أكسفورد 3000",
+  "description": "موقع تعليمي لمراجعة مفردات إنجليزية أساسية حسب مستويات A1 إلى B2 مع مدونة لتعليم القواعد وسياسات Google AdSense المعتمدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
