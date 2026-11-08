@@ -238,7 +238,7 @@
 .error-404 h1 { color: #F1EAD8; font-size: 18px; margin: 10px 0 8px; }
 .error-404 p { color: #9AA085; font-size: 13.5px; margin-bottom: 20px; }
 
-/* ---------- Enhanced Google AdSense Compliant Cookie Consent System ---------- */
+/* ---------- Google AdSense & GDPR Compliant Cookie Consent System ---------- */
 .cookie-notice {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999;
   background: #141810; border-top: 1px solid #3A4030; padding: 14px 20px;
@@ -311,15 +311,7 @@
 }
 .adsense-strict-box strong { color: #fee2e2; }
 
-/* Top notification banner */
-.top-compliance-bar {
-  background: #141810; border-bottom: 1px solid #3A4030; color: #D8CFB4; font-size: 12px;
-  padding: 6px 16px; display: flex; align-items: center; justify-content: space-between; gap: 10px;
-}
-.top-compliance-bar a { color: #C89B3C; text-decoration: none; font-weight: 700; }
-.top-compliance-bar a:hover { text-decoration: underline; }
-
-/* Footer links update */
+/* Footer links */
 .site-footer-nav {
   display: flex; flex-wrap: wrap; justify-content: center; gap: 14px 20px;
   padding: 24px 16px 12px; border-top: 1px solid #2B3327; margin-top: 40px;
@@ -337,4 +329,3 @@
 .answers summary { cursor: pointer; color: #C89B3C; font-size: 13px; font-weight: 700; }
 .answers ol { color: #C9C1A8; font-size: 13.5px; line-height: 2; padding-inline-start: 22px; }
 .inline-btn { background: #3E6B52; color: #F5EFDE; border: none; border-radius: 8px; padding: 9px 16px; font-size: 12.5px; font-weight: 700; cursor: pointer; font-family: 'Cairo', Tahoma, sans-serif; }
-
